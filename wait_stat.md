@@ -1,5 +1,6 @@
 Источник habrahabr.ru
 Автор minamoto
+https://habrahabr.ru/post/216309/
 
 Статистика ожиданий SQL Server'а или пожалуйста, скажите мне, где болит
 http://www.sqlskills.com/blogs/paul/wait-statistics-or-please-tell-me-where-it-hurts/
