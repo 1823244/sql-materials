@@ -17,22 +17,10 @@ CREATE TABLE dbo.call
 Требуется написать запрос, возвращающий для каждого абонента минимальную дату, когда количество событий было максимально, и максимальную дату, когда количество событий было минимально, а также количество событий.
 
 Результат:
-subscriber_name
-min_date
-max_event_cnt
-max_date
-min_event_cnt
-Subscriber1
-20091012
-15
-20061012
-10
-Subscriber2
-20080301
-20
-20090513
-8
 
+subscriber_name |	min_date	|	max_event_cnt	|	max_date	|	min_event_cnt
+Subscriber1		|	20091012	|	15				|	20061012	|	10
+Subscriber2		|	20080301	|	20				|	20090513	|	8
 
 
 Решение задачи:
